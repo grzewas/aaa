@@ -1,0 +1,5 @@
+C:\Users\TEMP.VLO30-05.005\documents\visual studio 2010\Projects\Trojkaty\Trojkaty\bin\Debug\Trojkaty.dll
+C:\Users\TEMP.VLO30-05.005\documents\visual studio 2010\Projects\Trojkaty\Trojkaty\bin\Debug\Trojkaty.pdb
+C:\Users\TEMP.VLO30-05.005\documents\visual studio 2010\Projects\Trojkaty\Trojkaty\obj\Debug\Trojkaty.dll
+C:\Users\TEMP.VLO30-05.005\documents\visual studio 2010\Projects\Trojkaty\Trojkaty\obj\Debug\Trojkaty.pdb
+C:\Users\TEMP.VLO30-05.005\Documents\Visual Studio 2010\Projects\Trojkaty\Trojkaty\obj\Debug\Trojkaty.csprojResolveAssemblyReference.cache
